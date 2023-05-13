@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251890246739",
+    "project_id": "chatopia-460e1",
+    "storage_bucket": "chatopia-460e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251890246739:android:0263d8590e1c7a9e0952a6",
+        "android_client_info": {
+          "package_name": "com.example.chatopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251890246739-e42n64gh26nukas1ckckl3m7idchek6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dubVShkajFOlU8pp-cW9BCv-mqbOotE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251890246739-e42n64gh26nukas1ckckl3m7idchek6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
